@@ -1,6 +1,6 @@
 # USBRS485
 
-![display](Images/pcb_top.png)
+![display](C:\USBRS485\Images\tampak_depan.png)
 
 CH340X
 
